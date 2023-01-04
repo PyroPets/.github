@@ -8,4 +8,4 @@ PyroPets uses [MetriMask](https://wiki.pyropets.org/metrimask) and PyroPets [web
 
 - **Extensible** because due to the nature of MRC721 tokens and smart contracts in general, developers may extend PyroPets in a permissionless way. Embers [(MBRS)](https://wiki.pyropets.org/mbrs) the native MRC20 token to PyroPets, may also be used in other projects if developers wish.
 - **Deflationary** because 100% of PYRO generation fees (Gen0 and stoking) is burned. MBRS in addition to being created by playing with a Pyro, may also be created in a ratio of 1 MBRS : 1000 MRX and are burned in order to perform customizations or feed your Pyro.
-- **Source code** because PyroPets is open source!
+- **Open source** because PyroPets is open source!
