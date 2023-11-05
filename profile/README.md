@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://camo.githubusercontent.com/251d72c9ea30d6ac81acba97e33bb2c1997bb6430a5db5a4733b8aa8c4e18c67/68747470733a2f2f77696b692e7079726f706574732e6f72672f7079726f70657473322e706e67" alt="pyropets2.png" data-canonical-src="https://wiki.pyropets.org/pyropets2.png" width="512" height="512">
+<img src="https://raw.githubusercontent.com/PyroPets/Wiki/master/pyropets2.png" alt="pyropets2.png" data-canonical-src="https://raw.githubusercontent.com/PyroPets/Wiki/master/pyropets2.png"  width="512" height="512">
 </p>
 
 PyroPets [(PYRO)](https://wiki.pyropets.org/pyro) is an extensible, deflationary, completely open-source permanent MRC721 NFT collectable game deployed on the MetrixCoin blockchain.
